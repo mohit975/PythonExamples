@@ -23,6 +23,6 @@ def bubble_sort(array):
 
     print(array)
 
-array = [10, 5, 2, 7, 3, 1, 8, 9, 6,10, 5, 2, 7, 3, 1, 8, 9, 6]
+array = [10, 5, 2, 7, 3, 1, 8, 9, 6]
 
 print(bubble_sort(array))
